@@ -1,10 +1,10 @@
 - banner: banner.tuymn.png
-  headline: "Tuymn para iPhone y Android"
+  title: "Tuymn para iPhone y Android"
   description: >
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse fermentum tellus a nulla dapibus porta.
-      Cras porta condimentum consectetur. Phasellus euismod suscipit ex, sed fermentum turpis imperdiet vel. Sed vel
-      ultricies ex. Nunc mollis, purus eget feugiat viverra, mauris neque malesuada sapien, sit amet iaculis libero
-      turpis eu dui. Phasellus sit amet efficitur lacus.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse fermentum tellus a nulla dapibus porta.</p>
-  url: "http://napden.com/tuymn"
-  call-to-action: Obtener Tuymn
+    <p>Tuymn es una aplicación en desarrollo que estará disponible para iPhone y para Android. Tuymn será un himnario
+    digital con himnarios de diferentes confesiones cristianas. Incluirá algunas características únicas como
+    sincronización en la nube, marcar himnos favoritos, escuchar su música, marcar estrófas favoritas y compartirlas en
+    redes sociales.</p>
+    <p>Tuymn será OpenSource y estará muy pronto disponible para su descarga gratuita.</p>
+  url: "https://github.com/napden/tuymn-mobile"
+  call-to-action: Más información
