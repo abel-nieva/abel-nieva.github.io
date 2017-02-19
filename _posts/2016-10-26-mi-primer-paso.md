@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mi primer paso o por qué decidí empezar a escribir
+title: Mi primer paso y por qué decidí empezar a escribir
 date: 2016-10-26
 permalink: /ensayos/:title/
 ---
